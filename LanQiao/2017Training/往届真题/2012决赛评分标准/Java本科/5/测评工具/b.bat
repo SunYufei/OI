@@ -1,2 +1,0 @@
-
-lua mc.lua
