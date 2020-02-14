@@ -1,24 +1,17 @@
 # Online-Judge
 
-### [CCF CSP](CCF/)
+- CCF
+  - [CSP](CCF/CSP)
+  - [CCSP](CCF/CCSP)
+- [团体程序设计天梯赛 GPLT](GPLT/)
+- [蓝桥杯](LanQiao/)
+- [LeetCode](LeetCode/)
+- [小米 OJ](MIOJ/)
+- [PAT](PAT/)
+- [PTA](PTA/)
+- [算法笔记](Template/template.pdf)
 
-### [团体程序设计天梯赛 GPLT](GPLT/)
-
-<!-- ### [杭电 OJ](HDU/) -->
-
-### [蓝桥杯](LanQiao/)
-
-### [LeetCode](LeetCode/)
-
-### [小米 OJ](MIOJ/)
-
-### [PAT](PAT/)
-
-### [PTA](PTA/)
-
-### [算法笔记](Template/template.pdf)
-
-## 开源协议
+## License
 
 C++/Python 源代码文件遵循 [MIT 协议](LICENSE)
 
