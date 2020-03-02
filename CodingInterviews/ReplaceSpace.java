@@ -1,3 +1,5 @@
+package CodingInterviews;
+
 public class ReplaceSpace {
     public static void main(String[] args) {
         String s = "We are happy.";

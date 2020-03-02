@@ -3,7 +3,7 @@
 - CCF
   - [CSP](CCF/CSP) 计算机软件能力认证
   - [CCSP](CCF/CCSP) 计算机系统与程序设计竞赛
-- [Coding Interviews](Coding%20Interviews) 剑指 Offer
+- [Coding Interviews](CodingInterviews) 剑指 Offer
 - [HDOJ](HDOJ) 杭电 OJ
 - Interviews 面试题
   - [China Unicom](Interviews/China%20Unicom) 中国联通
