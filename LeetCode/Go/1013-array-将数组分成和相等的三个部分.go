@@ -5,7 +5,6 @@
  */
 
 // @lc code=start
-
 func sum(nums []int) int {
 	var res = 0
 	for _, num := range nums {
