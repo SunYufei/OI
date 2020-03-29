@@ -9,10 +9,12 @@
   - [China Unicom](Interviews/China%20Unicom) 中国联通
   - [HUAWEI](Interviews/HUAWEI) 华为
   - [Inspur](Interviews/Inspur) 浪潮
-  - [LeetCode](Interviews/LeetCode) 面试题汇总
 - [LanQiao](LanQiao) 蓝桥杯
 - [LeetCode](LeetCode)
+  - C
   - Java
+  - Python
+  - [Interview](LeetCode/Interview) 面试题汇总
 - [MIOJ](MIOJ) 小米 OJ
 - PTA
   - [基础编程题目集](PTA/Basic)
