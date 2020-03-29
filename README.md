@@ -14,7 +14,9 @@
   - C
   - Java
   - Python
-  - [Interview](LeetCode/Interview) 面试题汇总
+  - [Interview](LeetCode/Interview) 算法面试题汇总
+  - [ByteDance](LeetCode/ByteDance)
+  - [Tencent](LeetCode/Tencent)
 - [MIOJ](MIOJ) 小米 OJ
 - PTA
   - [基础编程题目集](PTA/Basic)
