@@ -4,6 +4,8 @@
   - [CSP](CCF/CSP) 计算机软件能力认证
   - [CCSP](CCF/CCSP) 计算机系统与程序设计竞赛
 - [Coding Interviews](CodingInterviews) 剑指 Offer
+  - [NowCoder](CodingInterviews/NowCoder) 牛客网
+  - [LeetCode]
 - [HDOJ](HDOJ) 杭电 OJ
 - Interviews 面试题
   - [China Unicom](Interviews/China%20Unicom) 中国联通
