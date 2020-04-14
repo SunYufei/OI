@@ -1,5 +1,4 @@
-#ifndef LISTNODE_H_
-#define LISTNODE_H_
+#pragma once
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -24,5 +23,3 @@ struct TreeLinkNode {
     TreeLinkNode(int x)
         : val(x), left(nullptr), right(nullptr), next(nullptr) {}
 };
-
-#endif
