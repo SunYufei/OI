@@ -7,7 +7,7 @@ void swap(int *a, int *b) {
 }
 
 int partition(int base[], int l, int r) {
-    int pivot = r, counter = l, i;
+    int pivot = r, counter = l, i, t;
     for (i = l; i < r; i++)
         if (base[i] < base[pivot])
             swap(&base[counter++], &base[i]);

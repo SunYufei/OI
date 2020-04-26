@@ -76,7 +76,7 @@
 
 |题目|代码|
 |:--|:--:|
-|[排序](https://pintia.cn/problem-sets/15/problems/720)|[C bubble sort](../../PTA/DataStructure/7-12-c-bubble-sort.c) 8980ms <br> [C quick sort](../../PTA/DataStructure/7-12-c-quick-sort.c) 5496ms(?) <br> [C qsort()](../../PTA/DataStructure/7-12-c-qsort.c) 53ms <br> [C++ sort()](../../PTA/DataStructure/7-12-cpp-sort.cpp) 53ms <br> [Python sort()](../../PTA/DataStructure/7-12.py) 153ms|
+|[排序](https://pintia.cn/problem-sets/15/problems/720)|[C bubble sort](../../PTA/DataStructure/7-12-c-bubble-sort.c) TLE <br> [C quick sort](../../PTA/DataStructure/7-12-c-quick-sort.c) 7188ms(?) <br> [C qsort()](../../PTA/DataStructure/7-12-c-qsort.c) 53ms <br> [C++ sort()](../../PTA/DataStructure/7-12-cpp-sort.cpp) 53ms <br> [Python sort()](../../PTA/DataStructure/7-12.py) 153ms|
 |[Insert or Merge](https://pintia.cn/problem-sets/16/problems/675)||
 |[Insertion or Heap Sort](https://pintia.cn/problem-sets/16/problems/676)||
 
