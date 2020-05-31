@@ -17,7 +17,9 @@
     - [JavaScript](LeetCode/JavaScript) 
     - [Python](LeetCode/Python)
   - [剑指 Offer](LeetCode/CodingInterviews)
-  - [竞赛](LeetCode/Contest)
+  - 竞赛
+    - 周赛
+    - [2020 力扣杯 春季全国编程大赛-个人赛](LeetCode/Contest/2020Spring/Single)
   - 探索
     - [ByteDance](LeetCode/Explore/ByteDance)
     - [LinkedList](LeetCode/Explore/LinkedList) 链表
