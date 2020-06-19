@@ -1,4 +1,4 @@
-package explore
+package bintree
 
 // TreeNode node of bin tree
 type TreeNode struct {

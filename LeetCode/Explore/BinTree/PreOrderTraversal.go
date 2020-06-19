@@ -1,4 +1,4 @@
-import "../explore"
+package bintree
 
 func preorderTraversal(root *TreeNode) []int {
 	var res = make([]int, 0)
