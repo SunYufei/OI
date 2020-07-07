@@ -15,7 +15,7 @@ package leetcode
  * }
  */
 func inorderTraversal(root *TreeNode) []int {
-	var res = make([]int, 0)
+	var res = []int{}
 
 	var inorder func(*TreeNode)
 	inorder = func(root *TreeNode) {
