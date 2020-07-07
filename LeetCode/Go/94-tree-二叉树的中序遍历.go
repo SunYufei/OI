@@ -16,17 +16,19 @@ package leetcode
  */
 func inorderTraversal(root *TreeNode) []int {
 	var res = make([]int, 0)
-	inorder(root, &res)
-	return res
-}
 
-func inorder(root *TreeNode, res *[]int) {
-	if root == nil {
-		return
+	var inorder func(*TreeNode)
+	inorder = func(root *TreeNode) {
+		if root == nil {
+			return
+		}
+		inorder(root.Left)
+		res = append(res, root.Val)
+		inorder(root.Right)
 	}
-	inorder(root.Left, res)
-	*res = append(*res, root.Val)
-	inorder(root.Right, res)
+
+	inorder(root)
+	return res
 }
 
 // @lc code=end
