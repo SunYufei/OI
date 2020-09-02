@@ -6,9 +6,8 @@ func isUnique(astr string) bool {
 		moveBit := ch - 'a'
 		if mark&(1<<moveBit) != 0 {
 			return false
-		} else {
-			mark |= (1 << moveBit)
 		}
+		mark |= (1 << moveBit)
 	}
 	return true
 }
