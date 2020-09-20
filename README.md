@@ -5,7 +5,7 @@
   - [CCSP](CCF/CCSP) 计算机系统与程序设计竞赛
 - [ECNU](ECNU) 华东师范大学 OJ
 - [HDOJ](HDOJ) 杭电 OJ
-- Interviews 面试题
+- Interviews 笔试题
   - [58](Interviews/58)
   - [字节跳动](Interviews/ByteDance)
   - [中国联通](Interviews/China%20Unicom)
