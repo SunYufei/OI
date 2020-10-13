@@ -2,7 +2,7 @@ package inspur
 
 import "fmt"
 
-func main() {
+func test() {
 	count := 1
 	var n int
 	fmt.Scan(&n)
