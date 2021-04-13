@@ -42,7 +42,7 @@ typedef struct {
     char letter;
     // 权重
     unsigned int weight;
-    // 父节点、左孩子、右孩子下表
+    // 父节点、左孩子、右孩子下标
     unsigned int parent, left, right;
 } Node, *Tree;
 ```
