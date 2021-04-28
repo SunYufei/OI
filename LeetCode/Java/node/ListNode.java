@@ -1,5 +1,8 @@
 package node;
 
+/**
+ * @author LeetCode
+ */
 public class ListNode {
     public int val;
     public ListNode next;
