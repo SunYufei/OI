@@ -95,17 +95,19 @@ void CreateHuffmanTree(const char *filename, Tree &ht, int &n) {
     free(nodes);
 }
 
-void PreOrder(Tree ht, Code hc[], char cd[], int level, char code) {
-    if (ht->left == NULL && ht->right == NULL) {
+void PreOrder(Tree root, Code hc[], char cd[], int level, char code) {
+    if (root->left == NULL && root->right == NULL) {
         cd[level] = code;
         cd[level + 1] = '\0';
-        strcpy(hc[ht->letter], cd);
-        printf("%c %s\n", ht->letter, hc[ht->letter]);
+        // 将编码存到指定位置
+        char letter = root->letter;
+        hc[letter] = (char *)malloc((level + 2) * sizeof(char));
+        strcpy(hc[letter], cd);
         return;
     }
     cd[level] = code;
-    PreOrder(ht->left, hc, cd, level + 1, '0');
-    PreOrder(ht->right, hc, cd, level + 1, '1');
+    PreOrder(root->left, hc, cd, level + 1, '0');
+    PreOrder(root->right, hc, cd, level + 1, '1');
 }
 
 void CreateHuffmanCode(Code hc[], Tree ht, int n) {
